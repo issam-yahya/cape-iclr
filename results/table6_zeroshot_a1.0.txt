@@ -1,0 +1,6 @@
+ETTh1 → ETTh2: avg_mse=0.349047, avg_mae=0.391132
+ETTh1 → ETTm2: avg_mse=0.295905, avg_mae=0.352420
+ETTh2 → ETTh1: avg_mse=0.416501, avg_mae=0.439414
+ETTm1 → ETTh2: avg_mse=0.354944, avg_mae=0.396648
+ETTm1 → ETTm2: avg_mse=0.256446, avg_mae=0.315818
+ETTm2 → ETTm1: avg_mse=0.404474, avg_mae=0.411729

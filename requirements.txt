@@ -1,0 +1,11 @@
+# CAPE — reproducibility requirements
+# Tested with Python 3.10 / 3.12 / 3.13.
+torch>=1.7
+numpy>=1.21
+pandas>=1.3
+scikit-learn>=1.0
+
+# Optional: only needed if you want the scripts to auto-download the
+# benchmark CSVs from the HuggingFace mirror instead of placing them
+# in dataset/ yourself.
+# datasets>=2.0
