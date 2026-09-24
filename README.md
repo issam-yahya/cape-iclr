@@ -1,6 +1,6 @@
 # CAPE: Closed-form Analytic Period-folded Estimation
 
-Reproducibility code for the NeurIPS submission.
+Reproducibility code for the ICLR submission.
 
 This folder is self-contained. Copy it anywhere, add the data, and run.
 
